@@ -1,3 +1,4 @@
+#Laberinto
 import os
 from readchar import readkey, key
 
